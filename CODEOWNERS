@@ -1,0 +1,6 @@
+# CODEOWNERS assigns default reviewers for repository paths.
+# Replace these placeholders with NTARI GitHub teams or maintainers when available.
+
+* @NTARI-RAND/maintainers
+/docs/ @NTARI-RAND/docs-maintainers
+/.github/ @NTARI-RAND/maintainers

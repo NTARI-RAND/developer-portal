@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Dependency directories and build output for future documentation tooling
+node_modules/
+build/
+.cache/
+.docusaurus/
+
+# Environment files
+.env
+.env.*
+!.env.example
