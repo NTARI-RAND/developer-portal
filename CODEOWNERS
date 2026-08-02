@@ -2,5 +2,12 @@
 # Replace these placeholders with NTARI GitHub teams or maintainers when available.
 
 * @NTARI-RAND/maintainers
+
 /docs/ @NTARI-RAND/docs-maintainers
 /.github/ @NTARI-RAND/maintainers
+
+/README.md @NTARI-RAND/docs-maintainers
+/CONTRIBUTING.md @NTARI-RAND/docs-maintainers
+/CODE_OF_CONDUCT.md @NTARI-RAND/maintainers
+/SECURITY.md @NTARI-RAND/maintainers
+/LICENSE @NTARI-RAND/maintainers

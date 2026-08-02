@@ -1,14 +1,8 @@
 # NTARI Developer Portal
 
-<!--
-This README is the primary entry point for the NTARI Developer Portal repository.
-It should explain the repository purpose, navigation model, contribution flow, and
-future Docusaurus deployment assumptions without duplicating handbook content.
--->
+The NTARI Developer Portal is the official documentation repository maintained by the Network Theory Applied Research Institute (NTARI).
 
-The NTARI Developer Portal is the authoritative Markdown-first documentation repository for the Network Theory Applied Research Institute (NTARI).
-
-This repository is intended to host engineering, architecture, operations, volunteer, project, and RFC documentation for NTARI. It is currently optimized for GitHub browsing and review. It may later be deployed with Docusaurus.
+This repository will become the authoritative source for NTARI developer-facing documentation, including engineering guidance, architecture references, operational notes, project documentation, and contributor resources. It is currently maintained as a Markdown-first GitHub repository and may later be published with a dedicated documentation platform such as Docusaurus.
 
 ## Repository Map
 
@@ -23,12 +17,24 @@ This repository is intended to host engineering, architecture, operations, volun
 
 ## Current Status
 
-This repository contains the initial documentation structure only. Handbook and operational content will be added through future pull requests.
+This repository currently defines the documentation structure and the governance and contribution foundation. Handbook and operational content will be added through future pull requests.
+
+## Maintainer
+
+Documentation in this repository is maintained by NTARI.
 
 ## Contributing
 
-Please read `CONTRIBUTING.md` before opening issues or pull requests.
+Documentation contributions are welcome through GitHub issues and pull requests. Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before proposing changes.
+
+## Code of Conduct
+
+Participation in this repository is governed by the Contributor Covenant Code of Conduct. See [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
+
+## Security and Repository Issues
+
+To report documentation integrity problems, repository configuration concerns, or potential security issues, see [`SECURITY.md`](SECURITY.md).
 
 ## License
 
-This project is licensed under the GNU Affero General Public License v3.0. See `LICENSE` for details.
+This repository is licensed under the GNU Affero General Public License v3.0. See [`LICENSE`](LICENSE).
