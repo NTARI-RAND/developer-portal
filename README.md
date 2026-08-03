@@ -2,11 +2,22 @@
 
 The NTARI Developer Portal is the official documentation repository maintained by the Network Theory Applied Research Institute (NTARI).
 
-This repository will become the authoritative source for NTARI developer-facing documentation, including future engineering guidance, architecture references, operational notes, project documentation, and contributor resources. The portal is currently maintained as a Markdown-first GitHub repository and may later be published with a dedicated documentation platform such as Docusaurus.
+This repository will become the authoritative source for NTARI developer-facing documentation, including engineering guidance, architecture references, operational notes, project documentation, and contributor resources. It is currently maintained as a Markdown-first GitHub repository and may later be published with a dedicated documentation platform such as Docusaurus.
 
-## Current Scope
+## Repository Map
 
-This repository currently defines the governance and contribution foundation for the Developer Portal. Documentation pages have not been created yet.
+- `docs/engineering-handbook/` — future engineering practices and standards.
+- `docs/architecture/` — future architecture references and decision records.
+- `docs/operations/` — future operational runbooks and support procedures.
+- `docs/volunteer-guide/` — future contributor and volunteer onboarding material.
+- `docs/projects/` — future project-specific documentation indexes.
+- `docs/rfcs/` — future request-for-comments proposals and review records.
+- `docs/assets/` — future images, diagrams, and other documentation assets.
+- `templates/` — reusable Markdown templates for repository documentation.
+
+## Current Status
+
+This repository currently defines the documentation structure and the governance and contribution foundation. Handbook and operational content will be added through future pull requests.
 
 ## Maintainer
 
