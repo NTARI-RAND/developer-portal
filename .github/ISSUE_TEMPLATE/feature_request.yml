@@ -1,0 +1,34 @@
+name: Feature Request
+description: Suggest a repository capability, workflow, or documentation enhancement.
+title: "Feature: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What capability or improvement are you proposing?
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why would this be valuable for NTARI maintainers or contributors?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Approach
+      description: Describe the expected behavior, workflow, or implementation direction.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: List alternatives or tradeoffs if applicable.
+    validations:
+      required: false

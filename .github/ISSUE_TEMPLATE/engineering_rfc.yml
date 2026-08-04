@@ -1,0 +1,41 @@
+name: Engineering RFC
+description: Propose a significant engineering process, architecture, or governance decision.
+title: "RFC: "
+labels:
+  - rfc
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Provide a concise overview of the proposal.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem or opportunity does this RFC address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe the proposed decision, process, or standard.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Who or what would be affected by this proposal?
+    validations:
+      required: true
+  - type: textarea
+    id: open_questions
+    attributes:
+      label: Open Questions
+      description: List unresolved questions, risks, or decisions needed.
+    validations:
+      required: false

@@ -1,0 +1,35 @@
+name: Documentation Improvement
+description: Request a clarification, correction, or future documentation topic.
+title: "Docs: "
+labels:
+  - documentation
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Documentation Location
+      description: Link the page, file, heading, or proposed location.
+      placeholder: docs/engineering-handbook/...
+    validations:
+      required: false
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Requested Improvement
+      description: What should be clarified, corrected, or added?
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why is this change useful or necessary?
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Add references, examples, or related discussions.
+    validations:
+      required: false
