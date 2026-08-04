@@ -1,0 +1,9 @@
+# Placeholder CODEOWNERS for the NTARI Developer Portal.
+# Replace these entries with the appropriate NTARI GitHub teams or maintainers.
+
+* @NTARI-RAND/maintainers
+/README.md @NTARI-RAND/docs-maintainers
+/CONTRIBUTING.md @NTARI-RAND/docs-maintainers
+/CODE_OF_CONDUCT.md @NTARI-RAND/maintainers
+/SECURITY.md @NTARI-RAND/maintainers
+/LICENSE @NTARI-RAND/maintainers
