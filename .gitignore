@@ -13,13 +13,13 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Dependency directories and build output for future documentation tooling
+# Dependency directories and generic build output
 node_modules/
+dist/
 build/
 .cache/
-.docusaurus/
 
-# Environment files
+# Local environment files
 .env
 .env.*
 !.env.example

@@ -1,4 +1,4 @@
-# EditorConfig helps maintain consistent whitespace and formatting across contributors.
+# EditorConfig keeps formatting consistent across editors.
 root = true
 
 [*]

@@ -1,23 +1,27 @@
-<!--
-This pull request template is a placeholder for future NTARI contribution checks.
-It should eventually guide authors to summarize intent, identify affected docs,
-confirm review readiness, and link related issues or RFCs.
--->
-
 ## Summary
 
-- 
+<!-- Describe the purpose of this pull request in a few sentences. -->
 
-## Changes
+## Type of Change
 
-- 
+- [ ] Documentation update
+- [ ] Repository configuration
+- [ ] Governance or process update
+- [ ] Engineering RFC
+- [ ] Other maintenance
 
-## Review Notes
+## Related Issues or RFCs
 
-- 
+<!-- Link related issues, discussions, or RFCs. Use "None" if not applicable. -->
 
-## Checklist
+## Review Checklist
 
-- [ ] I have reviewed the rendered Markdown.
-- [ ] I have kept this change focused and reviewable.
-- [ ] I have linked related issues, RFCs, or discussions where applicable.
+- [ ] The change is scoped and reviewable.
+- [ ] Markdown renders correctly on GitHub.
+- [ ] Links are valid or intentionally pending.
+- [ ] Spelling and terminology have been reviewed.
+- [ ] No confidential, private, or security-sensitive information is included.
+
+## Additional Notes
+
+<!-- Add reviewer context, follow-up work, or rollout notes. -->
