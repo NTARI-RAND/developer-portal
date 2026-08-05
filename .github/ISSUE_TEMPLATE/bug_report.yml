@@ -1,0 +1,43 @@
+name: Bug Report
+description: Report a repository, workflow, or documentation defect.
+title: "Bug: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the NTARI Developer Portal. Please provide enough detail for maintainers to reproduce or verify the issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is broken or behaving unexpectedly?
+      placeholder: Describe the issue clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Provide steps, links, file paths, or screenshots when relevant.
+      placeholder: |
+        1. Go to ...
+        2. Open ...
+        3. Observe ...
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Add any other relevant details.
+    validations:
+      required: false
