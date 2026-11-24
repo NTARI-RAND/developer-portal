@@ -1,3 +1,5 @@
+# Pull request
+
 ## Summary
 
 <!-- Describe the purpose of this pull request in a few sentences. -->
@@ -13,6 +15,16 @@
 ## Related Issues or RFCs
 
 <!-- Link related issues, discussions, or RFCs. Use "None" if not applicable. -->
+
+## Verification
+
+### Checks run and results
+
+<!-- List the commands or manual checks you ran and the result of each. -->
+
+### Skipped checks
+
+<!-- List any checks you skipped and why, or write "None". -->
 
 ## Review Checklist
 
